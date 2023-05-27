@@ -1,6 +1,6 @@
  Hi there 	😎
 <p> This is the space where I spend most of my time where, imagination and creativity become code.</p>
-Eu sou o Rafael Bonfatti, sou um dev Frond End, atualmente estou aprendendo e criando projetos com HTM e CSS
+Eu sou o Rafael Bonfatti, sou um dev Frond End, atualmente estou aprendendo e criando projetos com HTM  CSS e JavaScript
 
 <br>
 <br>
