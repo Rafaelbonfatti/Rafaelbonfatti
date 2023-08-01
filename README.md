@@ -6,8 +6,8 @@ Eu sou o Rafael Bonfatti, sou um dev Frond End, atualmente estou aprendendo e cr
 <br>
 
 
-![Rafael stats](https://github-readme-stats.vercel.app/api?username=Rafaelbonfatti&show_icons=true&theme=dracula)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelbonfatti&show_icons=true&theme=dracula&layout=compact&langs)](https://github.com/anuraghazra/github-readme-stats)
+![Rafael stats](https://github-readme-stats.vercel.app/api?username=Rafaelbonfatti&how_icons=true&theme=dracula)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelbonfatti&how_icons=true&theme=dracula&layout=compact&langs)](https://github.com/anuraghazra/github-readme-stats)  
   <br>
   
   
