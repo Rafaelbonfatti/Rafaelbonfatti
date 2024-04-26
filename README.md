@@ -1,22 +1,21 @@
  Hi there 	😎
 <p> This is the space where I spend most of my time where, imagination and creativity become code.</p>
-Eu sou o Rafael Bonfatti, sou um dev Frond End, atualmente estou aprendendo e criando projetos com HTM  CSS e JavaScript
-
+<p>Eu sou o Rafael Bonfatti, sou um QA engineer.</p>
+<p>Além disso, estou automatizando testes E2E com Cypress e testes de API automatizados com Postman.</p>
 <br>
 <br>
 
 
-![Rafael stats](https://github-readme-stats.vercel.app/api?username=Rafaelbonfatti&how_icons=true&theme=dracula)
+![Rafael stats](https://github-readme-stats.vercel.app/api?username=Rafaelbonfatti&how_icons=true&theme=dark)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelbonfatti&how_icons=true&theme=dracula&layout=compact&langs)](https://github.com/anuraghazra/github-readme-stats)  
   <br>
   
   
    <div style="display: inline_block">
-  <p> Languages and Tools:</p>
-    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <p> Habilidades:</p>
+     <img align="center" alt="Rafa-Cypress" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/cypress-io.svg">
+     <img align="center" alt="Rafa-Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 <br>
 
