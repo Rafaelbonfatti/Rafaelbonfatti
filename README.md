@@ -12,21 +12,31 @@ Além disso, estou automatizando testes E2E com Cypress e testes de API automati
 
 <br>
   
-### Habilidades:
+## 🛠 Habilidades
 
-- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- Cypress ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-- Postman ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+ - [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)](https://www.java.com/)
+-  ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+-  [![REST-assured](https://img.shields.io/badge/-REST--assured-3498DB?style=flat-square)](https://rest-assured.io/)
+- [![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+-  [![K6](https://img.shields.io/badge/-K6-4A4A4A?style=flat-square&logo=k6&logoColor=white)](https://k6.io/)
+-  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 <br>
 
-### Social:
+## 📱 Social:
 
 - [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafaelbonfatti/)
 - [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/settings/profile)
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-cantieri-99682b269/)
 
+
+## 🌟 Visão do Projeto
+Atualmente, estou ampliando meu portfólio ao integrar diferentes tecnologias e frameworks, focando em automação de testes para web, APIs e desempenho. Meu objetivo é sempre aplicar práticas recomendadas e explorar novas tecnologias que estão surgindo no mercado.
+
+## 🎓 Educação
+- **Cursando** Análise e Desenvolvimento de Sistemas
 
 
 
